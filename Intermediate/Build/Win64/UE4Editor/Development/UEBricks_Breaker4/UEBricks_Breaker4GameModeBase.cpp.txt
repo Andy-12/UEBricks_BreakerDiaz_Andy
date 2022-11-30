@@ -1,0 +1,9 @@
+C:\Users\FAMILIA DIAZ\Documents\Unreal Projects\LAB4_UEComplit-master\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\Definitions.UEBricks_Breaker4.h
+C:\Users\FAMILIA DIAZ\Documents\Unreal Projects\LAB4_UEComplit-master\Source\UEBricks_Breaker4\UEBricks_Breaker4GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\FAMILIA DIAZ\Documents\Unreal Projects\LAB4_UEComplit-master\Intermediate\Build\Win64\UE4Editor\Inc\UEBricks_Breaker4\UEBricks_Breaker4GameModeBase.generated.h
+C:\Users\FAMILIA DIAZ\Documents\Unreal Projects\LAB4_UEComplit-master\Source\UEBricks_Breaker4\Paddle.h
+C:\Users\FAMILIA DIAZ\Documents\Unreal Projects\LAB4_UEComplit-master\Intermediate\Build\Win64\UE4Editor\Inc\UEBricks_Breaker4\Paddle.generated.h

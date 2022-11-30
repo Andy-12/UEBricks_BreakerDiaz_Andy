@@ -1,0 +1,5 @@
+C:\Users\FAMILIA DIAZ\Documents\Unreal Projects\LAB4_UEComplit-master\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\Definitions.UEBricks_Breaker4.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\FAMILIA DIAZ\Documents\Unreal Projects\LAB4_UEComplit-master\Source\UEBricks_Breaker4/Ball.h
+C:\Users\FAMILIA DIAZ\Documents\Unreal Projects\LAB4_UEComplit-master\Intermediate\Build\Win64\UE4Editor\Inc\UEBricks_Breaker4\Ball.generated.h

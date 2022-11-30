@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UEBricks_Breaker4-0079.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UEBricks_Breaker4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\Ball.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\Paddle.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\PaddlePlayerController.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\UEBricks_Breaker4.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\UEBricks_Breaker4GameModeBase.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\Ball.gen.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\Paddle.gen.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\PaddlePlayerController.gen.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\UEBricks_Breaker4.init.gen.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\UEBricks_Breaker4GameModeBase.gen.cpp.obj"
+"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\Default.rc2.res"
+/OUT:"C:\Users\rodri\OneDrive\Escritorio\Game BricksBreaker UE\UEBricks_Breaker4\Intermediate\Build\Win64\UE4Editor\Development\UEBricks_Breaker4\UE4Editor-UEBricks_Breaker4-0079.lib"
